@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  TaskManager
+//  TaskManager - Creating an app that keep track of the daily task and to do list.
 //
 //  Created by Behrooz Amuyan on 11/11/16.
 //  Copyright © 2016 Behrooz. All rights reserved.
